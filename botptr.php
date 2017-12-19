@@ -427,7 +427,7 @@ if (!is_null($events['events'])) {
 							             ),
 								     array(
 							            'thumbnailImageUrl'=>'https://image.ibb.co/gTW9Kb/ESAC2.jpg',
-							            'title'=>'สถานที่ติดต่อและยื่นเอกสาร', 
+							            'title'=>'การยื่นเอกสารและสถานที่ติดต่อ', 
 								    'text'=> 'กรุณาเลือกหัวข้อที่ต้องการทราบ',
                                                                     'actions'=>array (
                                                                                       array(
@@ -437,13 +437,13 @@ if (!is_null($events['events'])) {
                                                                                             ),
 									    array(
                                                                                             'type'=> 'message',
-                                                                                            'label'=> 'ศูนย์ประเมินฯ กฟต.1',
-                                                                                            'text'=> 'ศูนย์ประเมินฯ กฟต.1'
+                                                                                            'label'=> 'สถานที่ติดต่อ',
+                                                                                            'text'=> 'สถานที่ติดต่อ'
                                                                                             ),
 									 array(
                                                                                              'type'=> 'message',
-                                                                                              'label'=> 'ข่าวประชาสัมพันธ์',
-                                                                                               'text'=> 'ข่าวประชาสัมพันธ์'
+                                                                                              'label'=> 'แผนที่การเดินทาง',
+                                                                                               'text'=> 'แผนที่การเดินทาง'
                                                                                              )
                                                                                       )//action col3
 							             )
